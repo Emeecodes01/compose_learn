@@ -208,6 +208,7 @@ fun ProfileDetailScreen(userId: Int?, iconClicked: () -> Unit) {
     val user = userProfileList.find { it.id == id }
 
     Scaffold(
+
         topBar = {
             AppBar("User Details", Icons.Default.ArrowBack,
                 modifier = Modifier
