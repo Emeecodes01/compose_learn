@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">compose Learn</string>
+    <string name="active">Active</string>
+    <string name="inactive">In Active</string>
+</resources>
